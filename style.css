@@ -1,0 +1,47 @@
+body {
+	/*This makes the background a picture of an old document*/
+	background-image: url("paper.jpg");
+}
+
+h1 {
+	/*The size of the text*/
+	font-size: 40px;
+	/*Black Text Color*/
+	color: #010C0C;
+	/*Makes the text look like how the writing on the actual constituion looked*/
+	font-family: "Lucida Handwriting", cursive;
+}
+
+h2 {
+	/*The size of the text*/
+	font-size: 35px;
+	/*Black Text Color*/
+	color: #010C0C;
+	/*Makes the text look like how the writing on the actual constituion looked*/
+	font-family: "Lucida Handwriting", cursive;
+}
+
+h3 {
+	/*Black Text Color*/
+	color: #010C0C;
+	/*The size of the text*/
+	font-size: 30px;
+	/*Makes the text look like how the writing on the actual constituion looked*/
+	font-family: "Lucida Handwriting", cursive;
+}
+
+p {
+	/*Black Text Color*/
+	color: #010C0C;
+	/*The size of the text*/
+	font-size: 18px;
+	/*Makes the text look like how the writing on the actual constituion looked*/
+	font-family: "Lucida Handwriting", cursive;
+	/*Makes the body text show up better*/
+	font-weight: bold;
+}
+
+a:visited{
+	/*Website link color*/
+	color: aqua;
+}
