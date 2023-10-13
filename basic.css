@@ -1,0 +1,41 @@
+body {
+	/*This makes the background a picture some pink*/
+	background-image: url("pink.jpg");
+}
+h1 {
+	/*The size of the text*/
+	font-size: 40px;
+	/*Black Text Color*/
+	color: #010C0C;
+	/*Makes the text look like cursive*/
+	font-family: "Lucida Handwriting", cursive;
+}
+h2 {
+	/*The size of the text*/
+	font-size: 35px;
+	/*Black Text Color*/
+	color: #010C0C;
+	/*Makes the text look like cursive*/
+	font-family: "Lucida Handwriting", cursive;
+}
+p {
+	/*Black Text Color*/
+	color: #010C0C;
+	/*The size of the text*/
+	font-size: 18px;
+	/*Makes the text look like cursive*/
+	font-family: "Lucida Handwriting", cursive;
+	/*Makes the body text show up better*/
+	font-weight: bold;
+}
+img {
+	/*These are settings for the paris image*/
+	border: 1px solid #ddd;
+	border-radius: 4px;
+	padding: 5px;
+	width: 150px;
+  }
+  a:visited{
+	/*Website link color*/
+	color: white;
+}
