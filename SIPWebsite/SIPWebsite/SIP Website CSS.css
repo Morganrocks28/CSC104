@@ -1,0 +1,36 @@
+body {
+	/*This makes the background a picture some pink*/
+	background-image: url("pink.jpg");
+}
+
+img {
+	/*These are settings for the paris image*/
+	border: 1px solid #ddd;
+	border-radius: 60px;
+	padding: 15px;
+  }
+
+  h1 {
+	/*The size of the text*/
+	font-size: 40px;
+    text-align: center;
+    background-image: linear-gradient(#39EE2D, #8D1BE7 );
+    background-image: conic-gradient(#39EE2D #8D1BE7 );
+    color: white;
+	/*Makes the text look like cursive*/
+	font-family: "Times New Roman", Times, serif;
+}
+h2 {
+	/*The size of the text*/
+	font-size: 35px;
+    text-align: center;
+    background-image: linear-gradient(#39EE2D, #8D1BE7 );
+    background-image: conic-gradient(#39EE2D #8D1BE7 );
+    color: white;
+	/*Makes the text look like cursive*/
+	font-family: "Times New Roman", Times, serif;
+}
+
+h3 {
+    text-align: right;
+}
